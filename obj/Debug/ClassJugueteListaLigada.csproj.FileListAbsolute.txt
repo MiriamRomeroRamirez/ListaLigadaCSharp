@@ -1,0 +1,10 @@
+C:\Users\yamil\OneDrive\Documentos\ESTRUCTURA DE DATOS\ClassJugueteListaLigada\bin\Debug\ClassJugueteListaLigada.dll
+C:\Users\yamil\OneDrive\Documentos\ESTRUCTURA DE DATOS\ClassJugueteListaLigada\bin\Debug\ClassJugueteListaLigada.pdb
+C:\Users\yamil\OneDrive\Documentos\ESTRUCTURA DE DATOS\ClassJugueteListaLigada\obj\Debug\ClassJugueteListaLigada.dll
+C:\Users\yamil\OneDrive\Documentos\ESTRUCTURA DE DATOS\ClassJugueteListaLigada\obj\Debug\ClassJugueteListaLigada.pdb
+C:\Users\yamil\OneDrive\Documentos\ESTRUCTURA DE DATOS\ClassJugueteListaLigada\obj\Debug\ClassJugueteListaLigada.csprojAssemblyReference.cache
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\ClassJugueteListaLigada\bin\Debug\ClassJugueteListaLigada.dll
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\ClassJugueteListaLigada\bin\Debug\ClassJugueteListaLigada.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\ClassJugueteListaLigada\obj\Debug\ClassJugueteListaLigada.csprojAssemblyReference.cache
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\ClassJugueteListaLigada\obj\Debug\ClassJugueteListaLigada.dll
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\ClassJugueteListaLigada\obj\Debug\ClassJugueteListaLigada.pdb
